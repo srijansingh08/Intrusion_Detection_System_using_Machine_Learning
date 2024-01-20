@@ -35,7 +35,7 @@ Make sure you have the following installed on your system:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Intrusion_Detection_System_using_Machine_Learning.git
+   git clone https://github.com/srijansingh08/Intrusion_Detection_System_using_Machine_Learning.git
    ```
 2. Navigate to the project directory:
    cd SVM.ipynb,
